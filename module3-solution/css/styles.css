@@ -1,0 +1,15 @@
+#main-content{
+	background-color: #f8f8f8;
+	font-weight: bold;
+	margin: 15px auto;
+
+}
+#brand-name{
+	color: black;
+	font-weight: bold;
+	font-size: 1.6em;
+}
+li{
+	border: 1px solid black;
+	font-weight: bold;
+}
